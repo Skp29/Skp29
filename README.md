@@ -24,7 +24,6 @@
 - [Projects](#projects)
 - [Education](#education)
 - [Work & Leadership Experience](#work--leadership-experience)
-- [Certifications](#certifications)
 - [GitHub Stats & Trophies](#github-stats--trophies)
 - [Connect with Me](#connect-with-me)
 
@@ -90,7 +89,7 @@ I'm a passionate **Data Analyst** based in Ottawa, ON with a knack for transform
 
 
 
-## Work & Leadership Experience
+## Leadership Experience
 
 ### Code Frontier Club, Algonquin College  
 **Role:** Leader | **Location:** Ottawa, ON | **Duration:** Sep 2024 – Present  
@@ -102,14 +101,7 @@ I'm a passionate **Data Analyst** based in Ottawa, ON with a knack for transform
 - Coordinated participant support and managed event logistics, ensuring smooth operations.  
 - Collaborated with cross-functional teams to streamline tasks and drive innovation.
 
----
 
-## Certifications
-- **Learning Data Analytics** – LinkedIn Learning (Jan 2025)  
-- **Machine Learning with Python** – Coursera (Dec 2024)  
-- **Python for Data Science** – Coursera (Nov 2024)
-
----
 
 ## GitHub Stats & Trophies
 

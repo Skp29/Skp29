@@ -1,38 +1,56 @@
-
-
 <!-- ========================================================= -->
-<!--                Sumit Pandey - Data Analyst            -->
+<!--                 Sumit Pandey - Data Analyst               -->
 <!-- ========================================================= -->
 
-# Hi, I'm **Sumit Pandey** 👋
+# Hi, I'm **Sumit Pandey** 👋  
+### Data Analyst | Pro Coder | Creative Problem Solver
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Data+Analyst;Python+|+SQL+|+Power+BI+|+AWS+|+Flask;Transforming+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Data+Analyst;Python+|+SQL+|+Power+BI+|+AWS+|+Flask;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
-<!-- Animated Abstract Visual (Profile Placeholder) -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF0Zm9jZjB6cnJwNGNqYnBkZWN2bWoyMWwwaDUwazdpbW1uc3IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" alt="Abstract Data Visual" width="300"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Data Magic" width="600"/>
 </p>
+
+---
+
+## Table of Contents
+- [About Me](#about-me)
+- [Summary of Qualifications](#summary-of-qualifications)
+- [Skills & Tech Stack](#skills--tech-stack)
+- [Projects](#projects)
+- [Education](#education)
+- [Work & Leadership Experience](#work--leadership-experience)
+- [Certifications](#certifications)
+- [GitHub Stats & Trophies](#github-stats--trophies)
+- [Connect with Me](#connect-with-me)
 
 ---
 
 ## About Me
+I'm a passionate **Data Analyst** based in Ottawa, ON with a knack for transforming raw data into actionable insights. I leverage tools like Python, SQL, Power BI, AWS, and Flask to build interactive dashboards, predictive models, and robust ETL pipelines. I thrive on creative problem-solving and continuous innovation, always looking for the next big challenge.
 
-I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools such as Python, SQL, Power BI, AWS, and Flask to transform complex data into actionable insights. With a strong background in developing dashboards, predictive models, and automated reports, I thrive on delivering data-driven strategies that empower business decisions.
-
-**Contact Information:**
-- **Location:** Ottawa, ON  
-- **Email:** [Sumitpandey693@gmail.com](Sumitpandey693@gmail.com)
+**Contact Information:**  
+📍 **Location:** Ottawa, ON  
+✉️ **Email:** [Sumitpandey693@gmail.com](mailto:Sumitpandey693@gmail.com)
 
 ---
 
+## Summary of Qualifications
+- **Proficient In:** Python, SQL, Power BI, AWS, Flask, Tableau, MS Excel, Git, MySQL  
+- **Experience In:** Building dashboards, predictive models, and automated reporting systems  
+- **Strengths:** Data cleaning, ETL processes, API integrations, and data visualization  
+- **Leadership:** Mentoring peers and leading coding sessions to foster innovative thinking
 
+---
 
-## Skills
+## Skills & Tech Stack
 
 <div align="center">
+  <h3>Technical Skills</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -42,61 +60,65 @@ I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools su
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </div>
 
-
-
----
-
-## Education
-
-- **Algonquin College**  
-  *Business Intelligence System Infrastructure, Graduate Certificate*  
-  *Sep 2024 – May 2025*
-
-- **Georgian College, Ottawa, ON**  
-  *Big Data Analytics, Ontario College Graduate Certificate*  
-  *Sep 2023 – Apr 2024*
+<div align="center" style="margin-top: 10px;">
+  <h3>Soft Skills</h3>
+  <img src="https://img.shields.io/badge/Leadership-Soft%20Skill-blue?style=for-the-badge" alt="Leadership"/>
+  <img src="https://img.shields.io/badge/Team%20Collaboration-Soft%20Skill-brightgreen?style=for-the-badge" alt="Team Collaboration"/>
+  <img src="https://img.shields.io/badge/Problem-Solving-Soft%20Skill-yellow?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Effective%20Communication-Soft%20Skill-orange?style=for-the-badge" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Strategic%20Thinking-Soft%20Skill-red?style=for-the-badge" alt="Strategic Thinking"/>
+</div>
 
 ---
 
 ## Projects
 
 ### COVID-19 Trends and Impact Analysis  
-*Barrie, ON | Oct 2024 – Dec 2024*  
-- **Data Cleaning:** Processed over 100K missing data points to improve data reliability by 30%.
+**Location:** Barrie, ON | **Duration:** Oct 2024 – Dec 2024  
+- **Data Cleaning:** Processed over 100K missing data points, improving reliability by 30%.  
 - **Dashboard Development:** Built an interactive Tableau dashboard highlighting a 55% decline in cases post-2022, enhancing data interpretation.
 
 ### Smart Stock Insights Dashboard  
-*Technologies: Python, Flask, Linear Regression*  
-- **Real-Time Analysis:** Developed a stock market analysis dashboard with API integrations.
-- **Predictive Modeling:** Increased financial forecasting accuracy by 20% through advanced modeling techniques.
+**Technologies:** Python, Flask, Linear Regression  
+- **Real-Time Analysis:** Developed a dynamic stock market analysis dashboard with seamless API integrations.  
+- **Predictive Modeling:** Increased financial forecasting accuracy by 20% through advanced techniques.
 
 ### Flight Trends and Performance Tracker  
-*Technologies: MS Excel, Python, SQL, Power BI | Oct 2024 – Nov 2024*  
-- **Operational Dashboards:** Designed Power BI dashboards that improved operational tracking.
-- **Data Analysis:** Analyzed 7.3M flight records, optimizing distribution and reducing delays by 25%, which boosted customer satisfaction to 4.26/5.
+**Technologies:** MS Excel, Python, SQL, Power BI | **Duration:** Oct 2024 – Nov 2024  
+- **Operational Dashboards:** Designed Power BI dashboards for optimized tracking of operational metrics.  
+- **Data Analysis:** Analyzed 7.3M flight records, reducing delays by 25% and boosting customer satisfaction to 4.26/5.
 
----
+
 
 ## Work & Leadership Experience
 
 ### Code Frontier Club, Algonquin College  
-*Leader | Ottawa, ON | Sep 2024 – Present*  
-- Led bi-weekly coding sessions on Python and SQL for over 15 students, increasing session participation by 20%.
-- Mentored more than 10 peers in data analytics, contributing to a 20% improvement in project outcomes.
+**Role:** Leader | **Location:** Ottawa, ON | **Duration:** Sep 2024 – Present  
+- Organized bi-weekly coding sessions on Python and SQL for 15+ students, boosting session participation by 20%.  
+- Mentored over 10 peers in data analytics, contributing to a 20% improvement in project outcomes.
 
 ### The Crunch Entrepreneurship Competition  
-*Volunteer | Ottawa, ON | Nov 2024*  
-- Coordinated participant support and managed event logistics.
-- Collaborated with cross-functional teams to streamline tasks and drive innovative solutions.
+**Role:** Volunteer | **Location:** Ottawa, ON | **Duration:** Nov 2024  
+- Coordinated participant support and managed event logistics, ensuring smooth operations.  
+- Collaborated with cross-functional teams to streamline tasks and drive innovation.
 
 ---
 
+## Certifications
+- **Learning Data Analytics** – LinkedIn Learning (Jan 2025)  
+- **Machine Learning with Python** – Coursera (Dec 2024)  
+- **Python for Data Science** – Coursera (Nov 2024)
 
+---
 
-## GitHub Stats
+## GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skp29&show_icons=true&theme=radical" alt="Jake's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skp29&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=skp29&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -104,15 +126,18 @@ I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools su
 ## Connect with Me
 
 <p align="center">
-  <a href="mailto:Ryan@algon.com">
+  <a href="mailto:Sumitpandey693@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/jakeriamkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/skp0209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/skp29&count_bg=%237B1E7E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false" alt="Visitor Count"/>
+</p>
+
 ---
 
-*This profile README is a reflection of my passion for data analysis and my commitment to turning data into actionable insights.*
-
+*This profile README is a testament to my passion for data analytics, coding, and creative problem-solving. I'm here to push boundaries and deliver excellence. Let's innovate together! 🚀*

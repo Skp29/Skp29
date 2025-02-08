@@ -43,13 +43,7 @@ I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools su
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Leadership-Soft%20Skill-blue?style=for-the-badge" alt="Leadership"/>
-  <img src="https://img.shields.io/badge/Team%20Collaboration-Soft%20Skill-brightgreen?style=for-the-badge" alt="Team Collaboration"/>
-  <img src="https://img.shields.io/badge/Problem-Solving-Soft%20Skill-yellow?style=for-the-badge" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Effective%20Communication-Soft%20Skill-orange?style=for-the-badge" alt="Communication"/>
-  <img src="https://img.shields.io/badge/Strategic%20Thinking-Soft%20Skill-red?style=for-the-badge" alt="Strategic Thinking"/>
-</div>
+
 
 ---
 
@@ -103,7 +97,7 @@ I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools su
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Jake's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skp29e&show_icons=true&theme=radical" alt="Jake's GitHub Stats" />
 </p>
 
 ---

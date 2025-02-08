@@ -3,7 +3,6 @@
 <!-- ========================================================= -->
 
 # Hi, I'm **Sumit Pandey** 👋  
-### Data Analyst | Pro Coder | Creative Problem Solver
 
 <!-- Animated Typing Effect -->
 <p align="center">

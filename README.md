@@ -73,7 +73,7 @@ I'm a passionate **Data Analyst** based in Ottawa, ON with a knack for transform
 ## Projects
 
 ### COVID-19 Trends and Impact Analysis  
-**Location:** Barrie, ON | **Duration:** Oct 2024 – Dec 2024  
+ **Duration:** Oct 2024 – Dec 2024  
 - **Data Cleaning:** Processed over 100K missing data points, improving reliability by 30%.  
 - **Dashboard Development:** Built an interactive Tableau dashboard highlighting a 55% decline in cases post-2022, enhancing data interpretation.
 

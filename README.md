@@ -97,7 +97,7 @@ I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools su
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skp29e&show_icons=true&theme=radical" alt="Jake's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skp29&show_icons=true&theme=radical" alt="Jake's GitHub Stats" />
 </p>
 
 ---

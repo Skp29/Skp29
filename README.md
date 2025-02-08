@@ -13,7 +13,7 @@
 
 <!-- Animated Abstract Visual (Profile Placeholder) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Abstract Data Visual" width="300"/>
+  <img src="[https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF0Zm9jZjB6cnJwNGNqYnBkZWN2bWoyMWwwaDUwazdpbW1uc3IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" alt="Abstract Data Visual" width="300"/>
 </p>
 
 ---
@@ -24,7 +24,6 @@ I'm a passionate **Data Analyst** based in Ottawa, ON. I excel in using tools su
 
 **Contact Information:**
 - **Location:** Ottawa, ON  
-- **Phone:** 1234567890  
 - **Email:** [Sumitpandey693@gmail.com](Sumitpandey693@gmail.com)
 
 ---

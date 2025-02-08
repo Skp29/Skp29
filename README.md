@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Data+Analyst;Python+|+SQL+|+Power+BI+|+AWS+|+Flask;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Data+Analyst;Python+|+SQL+|+AWS+;Turning+Data;Into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 <!-- Hero Banner -->

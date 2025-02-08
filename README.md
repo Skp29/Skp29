@@ -106,11 +106,11 @@ I'm a passionate **Data Analyst** based in Ottawa, ON with a knack for transform
 ## GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skp29&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skp29&show_icons=true&theme=radical" alt="Sumit's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=skp29&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skp29&theme=radical&cacheBust=1" alt="GitHub Trophies"/>
 </p>
 
 ---
